@@ -6,14 +6,14 @@
 <p align="center">
   🚀 EdTech per l’università italiana  
   <br />
-  📊 Dashboard, analytics e AI per migliorare la didattica
+  📊 Dashboard, analytics e AI per la didattica
 </p>
 
 ---
 
 ## 👋 Chi siamo
 
-**DidaFlow** è una startup EdTech che sviluppa soluzioni digitali per il monitoraggio e il miglioramento dei corsi universitari.  
+**DidaFlow** è una startup EdTech che sviluppa soluzioni digitali per il monitoraggio dei corsi universitari.  
 Supportiamo **tutor, coordinatori e governance** accademica con strumenti di analisi intuitivi e predittivi, pensati su misura per l’università italiana.
 
 ---

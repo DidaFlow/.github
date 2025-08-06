@@ -1,9 +1,54 @@
-## Digital Transformation in Education - Italia (DTE-it)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/didaflow/.github/main/assets/logo.png" alt="DidaFlow Logo" width="200" />
+</p>
 
-Digital Transformation in Education - Italia (DTE-it) is an organization committed to spearheading the digital transformation of educational systems in Italian universities. Our focus is on the use of digital technologies to revolutionize teaching, learning and research in higher education.
+<h1 align="center">DidaFlow</h1>
+<p align="center">
+  🚀 EdTech per l’università italiana  
+  <br />
+  📊 Dashboard, analytics e AI per migliorare la didattica
+</p>
 
-At DTE-it, we recognize the central role of digital advances in reshaping the educational landscape. We advocate the integration of digital tools and methodologies, such as e-learning platforms, digital collaboration environments, data-driven analytics, and AI technologies, into university curricula and administrative processes.
+---
 
-Our strategy involves a collaborative approach that brings together educators, IT experts, policy makers, and university leaders. DTE-it acts as a hub for sharing innovative digital practices, cutting-edge research, and valuable resources. We organize a range of events, including workshops, webinars, and conferences, to disseminate knowledge about digital education and foster a community committed to this transformation.
+## 👋 Chi siamo
 
-DTE-it's mission is to guide Italian universities through the digital age, ensuring that they are equipped to use digital technologies to improve the quality, accessibility and effectiveness of education. As a leading advocate for digital progress in education, we are committed to fostering an academically enriching and technologically advanced educational environment throughout Italy.
+**DidaFlow** è una startup EdTech che sviluppa soluzioni digitali per il monitoraggio e il miglioramento dei corsi universitari.  
+Supportiamo **tutor, coordinatori e governance** accademica con strumenti di analisi intuitivi e predittivi, pensati su misura per l’università italiana.
+
+---
+
+## 🛠 Tecnologie
+
+- React 19, TypeScript, Vite
+- Mantine UI, Zustand, React Query
+- Vitest, MSW, GitHub Actions, Vercel
+- PostgreSQL / MongoDB
+- Architettura multi-tenant per più atenei
+
+---
+
+## 🚀 Repository principali
+
+| Repo | Descrizione |
+|------|-------------|
+| [`didaflow-insights`](https://github.com/didaflow/didaflow-insights) | Dashboard per il monitoraggio accademico |
+
+---
+
+## 📣 Collaboriamo con...
+
+- Università italiane (UniBO, UniPR, …)
+- Progetti PNRR e bandi FAIR
+- Centri di ricerca e innovation lab
+
+---
+
+## 💡 Contatti
+
+📬 Per collaborazioni o demo → **[info@didaflow.it](mailto:info@didaflow.it)**  
+🌐 Visita il sito: [www.didaflow.it](https://www.didaflow.it) *(in arrivo)*
+
+---
+
+<sub>Made with ❤️ for the Italian higher education community.</sub>
